@@ -87,7 +87,7 @@ Oct 2018 - Feb 2019
 - Merchandise creator
 
 ## **Education**
-***Computer Engineer Bachelor Degree*** <br>
+***Computer Engineer Bachelor's Degree*** <br>
 TEC, Cartago <br>
 2011 - 2021 <br> <br>
 ![Android](https://img.shields.io/badge/-Android-gray?logo=Android)
