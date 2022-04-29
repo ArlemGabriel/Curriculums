@@ -1,7 +1,7 @@
 # Arlem Gabriel Brenes Aguilar
 ![Linkedin](https://img.shields.io/badge/Android-Developer-brightgreen?style=for-the-badge&logo=Android)
-![Linkedin](https://img.shields.io/badge/MAIL-abrenesic@gmail.com-9cf?style=for-the-badge&logo=Google)
-![Linkedin](https://img.shields.io/badge/Phone-+50689764616-9cf?style=for-the-badge&logo=Phone)
+![Linkedin](https://img.shields.io/badge/MAIL-aXXXXXXXc@gmail.com-9cf?style=for-the-badge&logo=Google)
+![Linkedin](https://img.shields.io/badge/Phone-+XXXXXXXXXXX-9cf?style=for-the-badge&logo=Phone)
 ![Linkedin](https://img.shields.io/badge/Linkedin-Profile-blue?style=for-the-badge&logo=Linkedin)
 
 
