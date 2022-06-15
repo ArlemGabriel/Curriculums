@@ -1,7 +1,8 @@
 # Arlem Gabriel Brenes Aguilar
 ![Linkedin](https://img.shields.io/badge/Android-Developer-brightgreen?style=for-the-badge&logo=Android)
-![Linkedin](https://img.shields.io/badge/MAIL-aXXXXXXXc@gmail.com-9cf?style=for-the-badge&logo=Google)
-![Linkedin](https://img.shields.io/badge/Phone-+XXXXXXXXXXX-9cf?style=for-the-badge&logo=Phone)
+![Linkedin](https://img.shields.io/badge/Nationality-Costarica-white?style=for-the-badge&)
+![Linkedin](https://img.shields.io/badge/MAIL-aXXXXXXXc@gmail.com-white?style=for-the-badge&logo=Google)
+![Linkedin](https://img.shields.io/badge/Phone-+8XXXXXX6-white?style=for-the-badge&logo=Phone)
 ![Linkedin](https://img.shields.io/badge/Linkedin-Profile-blue?style=for-the-badge&logo=Linkedin)
 
 
@@ -27,7 +28,7 @@ Always searching the ways to conceptualize app solutions with the latest technol
 |  GitHub |  ![Dot](https://shields.io/badge/-blue)  ![Dot](https://shields.io/badge/-blue) ![Dot](https://shields.io/badge/-blue) ![Dot](https://shields.io/badge/-white) ![Dot](https://shields.io/badge/-white)  |
 |  Firebase |  ![Dot](https://shields.io/badge/-blue)  ![Dot](https://shields.io/badge/-blue) ![Dot](https://shields.io/badge/-white) ![Dot](https://shields.io/badge/-white) ![Dot](https://shields.io/badge/-white)  |
 |  SQL |  ![Dot](https://shields.io/badge/-blue)  ![Dot](https://shields.io/badge/-blue) ![Dot](https://shields.io/badge/-blue) ![Dot](https://shields.io/badge/-white) ![Dot](https://shields.io/badge/-white)  |
-|  Jira |  ![Dot](https://shields.io/badge/-blue)  ![Dot](https://shields.io/badge/-blue) ![Dot](https://shields.io/badge/-white) ![Dot](https://shields.io/badge/-white) ![Dot](https://shields.io/badge/-white)  |
+|  Azure |  ![Dot](https://shields.io/badge/-blue)  ![Dot](https://shields.io/badge/-blue) ![Dot](https://shields.io/badge/-white) ![Dot](https://shields.io/badge/-white) ![Dot](https://shields.io/badge/-white)  |
 
 ## **Languages** <br>
 
@@ -39,7 +40,32 @@ Always searching the ways to conceptualize app solutions with the latest technol
 
 ***Cargill Business Services*** <br>
 Belén, Heredia <br>
-Feb 2021 - Present <br><br>
+Dec 2021 - Present <br><br>
+![Adobe Analytics](https://img.shields.io/badge/Software-Adobe%20Analytics-purple?logo=Adobe)
+![Android Platform](https://img.shields.io/badge/Platform-Android-brightgreen?logo=Android)
+![Kotlin Language](https://img.shields.io/badge/Language-Kotlin-blue?logo=Kotlin)
+![Git Software](https://img.shields.io/badge/Software-Git-red?logo=Git)
+![Github Platform](https://img.shields.io/badge/Platform-Github-purple?logo=Github)
+![Jira Software](https://img.shields.io/badge/Software-Azure%20DevOps-blue?logo=AzureDevOps)
+- Host meetings with clients from different parts of the world and needs to gather requirements for mobile analytics implementations.
+- Support and host meetings to help developers to initialize analytics implementation for Android, iOS and ReactNative.
+- Build foundations in Adobe Launch Platform for mobile and web of Analytics.
+- Design and implement a clean architecture to keep the platform maintainable and uncoupled
+- Create a naming convention to standardize all the implementations.
+- Prepare and host training sessions to onboard new team members.
+- Collaborate and implement a new library for Android to improve and facilitate Adobe Analytics implementation for mobile apps by using Kotlin.
+- Management of tools such as Git/GitHub for version control and project hosting.
+- Create documentation for internal processes.
+- Organize, design and implement a new workflow for the Analytics implementation releases.
+- Collaborate with different people to solve several issues inside and outside our team scope.
+- Provide and implement new solutions for issues that are impacting our business clients implementation.
+- Regularly use a set of good practices to obtain the best possible result of a project using Azure DevOps.
+
+
+
+***Cargill Business Services*** <br>
+Belén, Heredia <br>
+Feb 2021 - Nov 2021 <br><br>
 ![Android Platform](https://img.shields.io/badge/Platform-Android-brightgreen?logo=Android)
 ![Kotlin Language](https://img.shields.io/badge/Language-Kotlin-blue?logo=Kotlin)
 ![Git Software](https://img.shields.io/badge/Software-Git-red?logo=Git)
@@ -77,17 +103,9 @@ Dec 2019 - Present <br> <br>
 - Maintenance and troubleshooting of the application.
 - Work with technologies such as: Android, Java, JSON and Firebase
 
-***Unidiseños JK*** <br>
-San José, San José <br>
-Oct 2018 - Feb 2019
-
-- Seller and customer service.
-- Responsible for the logistics of preparation and shipment of orders.
-- Sale at massive anime events such as Animacon at Parque de la Libertad and Matsuri at the National Stadium.
-- Merchandise creator
 
 ## **Education**
-***Computer Engineer Bachelor's Degree*** <br>
+***Computer Engineer Bachelor*** <br>
 TEC, Cartago <br>
 2011 - 2021 <br> <br>
 ![Android](https://img.shields.io/badge/-Android-gray?logo=Android)
